@@ -29,3 +29,5 @@ Você também poderá ter acesso ao meu certificado de conclusão.
 Opinião:
 
 Achei um curso com uma ótima didática, tinha visto já outros cursos no mercado com uma ótima qualidade, entretanto a simplicidade e o contato do professor com o mundo corporativo trazem para a gente um entusiamo e uma visão diferente de conteúdos massantes. Rever esses assuntos fortaleceu ainda mais meu conhecimento nos fundamentos de Python, trazendo mais segurança e certeza na criação dos meus códigos e projetos.
+
+Ministrado pelo professor Vinicius da Empowerdata: https://www.empowerdata.com.br/
